@@ -17,7 +17,7 @@ function generate() {
             linkDL.style.display = "inline";
             linkAL.style.display = "inline";
         } else {
-            teks_waktu.innerHTML = "<h3 class='text-danger' style='font-size:16px;'>Ссылка появится через " + waktu.toString() + " Секунд</h3>";
+            teks_waktu.innerHTML = "<h3 class='text-danger' style='font-size:16px;'>РЎСЃС‹Р»РєР° РїРѕСЏРІРёС‚СЃСЏ С‡РµСЂРµР· " + waktu.toString() + " РЎРµРєСѓРЅРґ</h3>";
             btn.style.display = "none";
         }
     }, 1200);
