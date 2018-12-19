@@ -1,1 +1,0 @@
-(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='//platform-api.sharethis.com/js/sharethis.js#property=5a5a919e39ea20001300992b&product=sticky-share-buttons';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(a)})();
