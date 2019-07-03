@@ -4,7 +4,7 @@
         a.id = "arlinablock";
         a.innerHTML = '<style>.m3u,blockquote{-ms-user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-moz-user-select:none;-webkit-user-select:none;}.down-link,.download {display:none;font-size:0em;}</style>';
         document.body.append(a);
-        document.body.style.overflow = "hidden";
+        document.body.style.overflow = "auto";
         var b = a.querySelectorAll("button");
         a.querySelector(".close");
         var d = a.querySelectorAll(".fixblock > div");
