@@ -1,0 +1,6 @@
+/* Spoiler */
+#flippy{margin:0 auto 25px auto;text-align:center;width:180px;}#flippy button{background:#2c3e50;color:#fff;margin:0 auto;vertical-align:middle;cursor:pointer;padding:6px 15px;font-weight:600;font-size:14px;text-align:center;letter-spacing:0.5px;border:0;border-radius:3px;transition:all .3s}#flippy button:focus{background:#f39c12;outline:none}#flippanel{padding:20px;display:none;text-align:left;background: #f9f9f9;border:0;border-radius:5px;margin:0 auto 25px auto;box-shadow: 0 0 10px 1px #dadada;}#flippanel kbd{background:#2c3e50;color:#fff;border-radius:3px;font-family:Google sans;font-size:11px;padding:2px 6px;font-weight:500}
+/* Download m3u */
+.m3u{font-family:'Roboto',sans-serif;display:block;white-space:pre;max-height:441px;overflow-y:scroll;line-height:24px;position:relative;font-size:16px;font-weight:700;background:#fdfdfd;max-width:600px;margin:0 auto;padding:.5em 1.5em;border-left:4px solid #0684bd;overflow:auto}
+.down-link{display: inline-block;font-size: 14px;background: #ffffff;margin-bottom:3px;text-align:center;padding: 0 5px 0 8px;font-weight:600;color: #175a96!important;border: 1px solid #b5b5b5;border-radius: 5px;}
+a.down-link:hover {-webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .2);box-shadow: 0 0 20px 0 rgba(0, 0, 0, .2);}
