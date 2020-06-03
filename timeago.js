@@ -214,10 +214,3 @@
   document.createElement("abbr");
   document.createElement("time");
 }));
-//]]>
-</script>
-
-<script type='text/javascript'>
-jQuery(document).ready(function() {
-  jQuery(&quot;time.timeago&quot;).timeago();
-});
