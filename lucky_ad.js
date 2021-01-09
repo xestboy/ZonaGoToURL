@@ -2,7 +2,7 @@
 // Lazy Load luckyads
    function downloadJSAtOnloadLucky() {
       var element = document.createElement("script");
-      element.src = "//bpkbqp.com/47r17l129/ivl0pm/y038hq687vuq768kypjk67m3.php";
+      element.src = "http://bpkbqp.com/47r17l129/ivl0pm/y038hq687vuq768kypjk67m3.php";
       document.body.appendChild(element);
    }
    if (window.addEventListener)
